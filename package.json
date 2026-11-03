@@ -1,0 +1,16 @@
+{
+  "name": "bot-figurinhas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "6.7.9",
+    "wa-sticker-formatter": "4.4.4",
+    "pino": "8.21.0"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
